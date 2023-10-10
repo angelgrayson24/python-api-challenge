@@ -1,5 +1,5 @@
 # python-api-challenge
-## Introduction:
+# Introduction:
 This project explores how proximity to the equator influences various weather parameters such as humidity, cloudiness, wind speed, and temperature. The study was conducted using real-time weather data collected from cities worldwide, analyzing their geographical proximity to the equator to draw conclusions about weather patterns.
 
 # Data Collection:
